@@ -20,7 +20,7 @@ HEARTBEAT_EVERY = 60 * 60 * 24
 # Ntfy.sh channel used.
 # This has to be the same channel (in that case "cazare_woko") as the
 # one specified in the android / iOS application.
-NTFY_CHANNEL = "https://ntfy.sh/cazare_woko"
+NTFY_CHANNEL = "https://ntfy.sh/ahmadk_woko"
 
 # Ignores room announcements containing the string "Sublet", as they are
 # most probably sublets for the summer, and not main tenant announcements.
